@@ -1,0 +1,1 @@
+export const GET_METHOD_STUDENT = "GET_METHOD_STUDENT";
